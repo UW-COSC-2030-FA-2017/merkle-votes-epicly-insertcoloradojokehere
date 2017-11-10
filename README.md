@@ -51,3 +51,7 @@ Create a poster using the template provided, describing your design decisions, l
 Poster will be due at the time of final code submission
 
 You must change this readme file to contain the names of your group members as well as the mathematical functions you have each implemented for your hash functions.
+
+## references
+* no group members, just me solo-ing it
+
