@@ -22,9 +22,9 @@ public:
 	int dataInserted();
 	int numberOfNodes();
 
-	bool insert(string, int);
+	int insert(string, int);
 
-	bool find(string);
+	int find(string);
 
 	string locate(string);
 

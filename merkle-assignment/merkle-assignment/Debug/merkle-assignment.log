@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  vote.cpp
+  pMT.cpp
+h:\github\merkle-votes-epicly-insertcoloradojokehere\merkle-assignment\merkle-assignment\pmt.cpp(152): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  bTree.cpp
+h:\github\merkle-votes-epicly-insertcoloradojokehere\merkle-assignment\merkle-assignment\btree.cpp(44): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
