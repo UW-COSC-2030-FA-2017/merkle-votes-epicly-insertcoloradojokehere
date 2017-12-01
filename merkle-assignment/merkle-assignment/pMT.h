@@ -1,5 +1,5 @@
 #pragma once
-
+#include "stdafx.h"
 #include "bTREE.h"
 #include <string>
 using namespace std;

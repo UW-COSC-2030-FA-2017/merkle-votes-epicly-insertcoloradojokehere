@@ -1,3 +1,4 @@
+#include "stdafx.h"
 #include "pMT.h"
 
 pMT::pMT(int hashSelect)
